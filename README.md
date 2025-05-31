@@ -5,7 +5,8 @@ A modern and responsive **Landing Page Website** designed to showcase products, 
 
 🔗 **Live Website**: [keen-vacherin-2f3aaa.netlify.app](https://keen-vacherin-2f3aaa.netlify.app/)
 
-🎥 **Demo Video**: [Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+🎥 **Working Video**
+(WD1.mp4)
 
 ---
 
@@ -23,18 +24,8 @@ A modern and responsive **Landing Page Website** designed to showcase products, 
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla or basic animations – update if using frameworks)  
+- JavaScript (basic animations – update if using frameworks)  
 - Netlify (for deployment)
 
 ---
 
-## 📁 How to Use Locally
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/your-landing-page.git
-
-# 2. Navigate into the project directory
-cd your-landing-page
-
-# 3. Open the index.html file in your browser
