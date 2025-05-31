@@ -5,11 +5,6 @@ A modern and responsive **Landing Page Website** designed to showcase products, 
 
 🔗 **Live Website**: [keen-vacherin-2f3aaa.netlify.app](https://keen-vacherin-2f3aaa.netlify.app/)
 
-🎥 **Working Video**
-(WD1.mp4)
-
----
-
 ## ✨ Features
 
 - ✅ Fully responsive design (mobile, tablet, desktop)
